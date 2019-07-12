@@ -23,7 +23,7 @@ You may assume that each input would have exactly one solution, and you may not 
 #### Solution:
     We can solve this problem with O(N) time complexity using a HashMap.  
 
-    See [two-sum-lib/Solution.cs](https://github.com/jeffholst/data-structures/blob/master/arrays/two-sum/two-sum-lib/Solution.cs)
+See [two-sum-lib/Solution.cs](https://github.com/jeffholst/data-structures/blob/master/arrays/two-sum/two-sum-lib/Solution.cs)
 #### Time Complexity: O(N):
 	The array is traversed only once. So the time complexity is directly proportional to the size of the array i.e. O(N).
 
