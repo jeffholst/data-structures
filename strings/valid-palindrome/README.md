@@ -8,12 +8,12 @@ Given a string, determine if it is a palindrome, considering only alphanumeric c
 
 #### Program Structure:
 ```C#
-    public class Solution {
-	    public bool isPalindrome(String s)
-		{
+public class Solution {
+	public bool isPalindrome(String s)
+	{
 
-		}
-    }
+	}
+}
 ```
 
 #### Solution:
