@@ -25,9 +25,8 @@ You may assume that each input would have exactly one solution, and you may not 
 
 See [two-sum-lib/Solution.cs](https://github.com/jeffholst/data-structures/blob/master/arrays/two-sum/two-sum-lib/Solution.cs)
 #### Time Complexity: O(N):
-	The array is traversed only once. So the time complexity is directly proportional to the size of the array i.e. O(N).
-
+> The array is traversed only once. So the time complexity is directly proportional to the size of the array i.e. O(N).
 ####  Space Complexity: O(N):
-	O(1) + O(N) = O(N). )(1) for the variables and O(N) for the hashmap. For hashmap, with the increase of the number of entries, the hashmap's space will increase lineraly. So space complexity of hasmap is O(N).
+> O(1) + O(N) = O(N). )(1) for the variables and O(N) for the hashmap. For hashmap, with the increase of the number of entries, the hashmap's space will increase lineraly. So space complexity of hasmap is O(N).
 
 #### Difficulty: Easy
