@@ -16,10 +16,11 @@ You may assume that each input would have exactly one solution, and you may not 
 
 #### Program Structure:
 ```C#
-    public class Solution {
-	    public int[] twoSum(int[] nums, int target){
-	    }
-    }
+public class Solution {
+	public int[] twoSum(int[] nums, int target)
+	{
+	}
+}
 ```
 #### Solution:
 > We can solve this problem with O(N) time complexity using a HashMap.  
