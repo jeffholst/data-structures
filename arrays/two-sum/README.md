@@ -15,13 +15,14 @@ You may assume that each input would have exactly one solution, and you may not 
 	return [1,6].
 
 #### Program Structure:
+```C#
     public class Solution {
 	    public int[] twoSum(int[] nums, int target){
 	    }
     }
-
+```
 #### Solution:
-    We can solve this problem with O(N) time complexity using a HashMap.  
+> We can solve this problem with O(N) time complexity using a HashMap.  
 
 See [two-sum-lib/Solution.cs](https://github.com/jeffholst/data-structures/blob/master/arrays/two-sum/two-sum-lib/Solution.cs)
 #### Time Complexity: O(N):
