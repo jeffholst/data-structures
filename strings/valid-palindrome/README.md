@@ -15,7 +15,8 @@ Given a string, determine if it is a palindrome, considering only alphanumeric c
     }
 
 #### Solution:
-    This can be solved easily by using the 'reverse' method in certain programming languages.  For our solution we'll use another approach.
+    This can be solved easily by using the 'reverse' method in certain programming languages.  
+    For our solution we'll use another approach.
 
 See [valid-palindrome-lib/Solution.cs](https://github.com/jeffholst/data-structures/blob/master/strings/valid-palindrome/valid-palindrome-lib/Solution.cs)
 ###  Space Complexity: O(N):
